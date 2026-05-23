@@ -817,6 +817,22 @@
         "gender": "female",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_0bv1i4uk1vo6mpirtpja",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_nsodxltcf4ompienbsa",
+        "name": "Hanz",
+        "gender": "male",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_vc25uh799xmpieop7r",
+        "name": "Kath A.",
+        "gender": "female",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
