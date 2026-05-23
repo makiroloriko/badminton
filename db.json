@@ -65,6 +65,12 @@
       "name": "Lala",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_09hbylbduhjmpiepww1",
+      "name": "Wade",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
