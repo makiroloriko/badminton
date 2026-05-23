@@ -929,6 +929,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_klmoa7w3esmpirwfu1",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_7i8v9zp05lmpievzm1",
+        "name": "JULIUS",
+        "gender": "male",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_0paqy158d5ibmpiewyqn",
+        "name": "LIEZL",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
