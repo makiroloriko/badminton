@@ -227,6 +227,12 @@
       "name": "SHIELA",
       "gender": "female",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_oa9bsx8il7mpieyp38",
+      "name": "BETH",
+      "gender": "female",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
