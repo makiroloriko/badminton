@@ -405,6 +405,22 @@
         "gender": "female",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_j84xm4jvi5empif6zy2",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_kh24ozwfxurmpiepm32",
+        "name": "Lala",
+        "gender": "female",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_ewb4h881qqimpif6oj0",
+        "name": "CHAMMY",
+        "gender": "female",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
