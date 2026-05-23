@@ -993,6 +993,22 @@
         "gender": "female",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_o5phnzqurempirxy4t",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_a6bjul91a8pmpif03jq",
+        "name": "CARLO B.",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_iv5ig42o41mpif0ph2",
+        "name": "ROSY",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
