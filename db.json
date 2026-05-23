@@ -251,6 +251,12 @@
       "name": "MACKY",
       "gender": "male",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_a6bjul91a8pmpif03jq",
+      "name": "CARLO B.",
+      "gender": "male",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
