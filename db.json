@@ -1099,52 +1099,6 @@
   ],
   "schedule": [
     {
-      "id": "match_dzurjwgh5uempis27cx",
-      "category": "Male Doubles",
-      "teamA": {
-        "player1": {
-          "id": "player_z3rs5rmanaempiemien",
-          "name": "King",
-          "gender": "male",
-          "colorTeam": "green"
-        },
-        "player2": {
-          "id": "player_gbfn16wqv08mpiemtx6",
-          "name": "Ryleigh",
-          "gender": "male",
-          "colorTeam": "green"
-        }
-      },
-      "teamB": {
-        "player1": {
-          "id": "player_v8no7jsyrzmpien4gt",
-          "name": "Mel",
-          "gender": "male",
-          "colorTeam": "green"
-        },
-        "player2": {
-          "id": "player_nsodxltcf4ompienbsa",
-          "name": "Hanz",
-          "gender": "male",
-          "colorTeam": "green"
-        }
-      },
-      "courtId": 1,
-      "status": "completed",
-      "scoreA": 4,
-      "scoreB": 15,
-      "setScores": [
-        {
-          "A": 4,
-          "B": 15
-        }
-      ],
-      "winner": "B",
-      "scheduledTime": "12:04 AM",
-      "startedAt": "2026-05-23T20:08:06.695Z",
-      "completedAt": "2026-05-23T20:08:24.493Z"
-    },
-    {
       "id": "match_i1ez8fvsjcpmpis2pyb",
       "category": "Male Doubles",
       "teamA": {
