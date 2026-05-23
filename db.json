@@ -215,6 +215,12 @@
       "name": "MANEL",
       "gender": "female",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_fjaj33m54wvmpiey9ot",
+      "name": "MELODY",
+      "gender": "female",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
