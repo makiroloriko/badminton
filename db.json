@@ -961,6 +961,22 @@
         "gender": "female",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_z2qint8gasmpirx3ed",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_4lhscpi2tdxmpievneo",
+        "name": "KIER",
+        "gender": "male",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_3r3vps8qhjfmpiexcxh",
+        "name": "JESSA",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
