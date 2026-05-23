@@ -1025,6 +1025,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_uf2268b7j7kmpiryrxk",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_jlfc8rbiqbmpif0h2y",
+        "name": "KEVIN",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_slkltfasbufmpif1n5b",
+        "name": "NEMFA",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
