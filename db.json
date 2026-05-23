@@ -89,6 +89,12 @@
       "name": "Gab",
       "gender": "male",
       "colorTeam": "blue"
+    },
+    {
+      "id": "player_gvjdozd9jrmmpiercij",
+      "name": "Andy",
+      "gender": "male",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
