@@ -351,6 +351,22 @@
         "gender": "male",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_8w8z40fypdmmpif4w41",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_ekmidiudw2mpienkan",
+        "name": "Gerurd",
+        "gender": "male",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_v8yeaye46yhmpienqgo",
+        "name": "Tony",
+        "gender": "male",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
