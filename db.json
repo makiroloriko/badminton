@@ -1057,6 +1057,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_2k5ktuhtsktmpirzcv4",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_bk9h51e991empif0aku",
+        "name": "BHADZ",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_og4n0o6niwdmpif20kh",
+        "name": "RUTH",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
