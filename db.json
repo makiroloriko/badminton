@@ -29,6 +29,12 @@
       "name": "Gerurd",
       "gender": "male",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_v8yeaye46yhmpienqgo",
+      "name": "Tony",
+      "gender": "male",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
