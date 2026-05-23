@@ -77,6 +77,12 @@
       "name": "Cassy",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_8oopbsf5snumpiequc6",
+      "name": "Christian",
+      "gender": "male",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
