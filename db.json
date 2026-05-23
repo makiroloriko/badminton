@@ -453,6 +453,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_1tbxgnmuya7mpif7wf0",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_osyibjxzdbqmpiesrvr",
+        "name": "CKEN",
+        "gender": "female",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_lc80vvi1effmpiet25l",
+        "name": "YEYE",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
