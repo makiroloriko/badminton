@@ -1132,7 +1132,7 @@
       "courtId": 1,
       "status": "live",
       "scoreA": 2,
-      "scoreB": 0,
+      "scoreB": 1,
       "setScores": [],
       "winner": null,
       "scheduledTime": "12:04 AM",
