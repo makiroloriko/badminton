@@ -881,6 +881,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_7hefz0v6di2mpirvkqu",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_5yh4ghf11wsmpirowr1",
+        "name": "RENCE",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_lc80vvi1effmpiet25l",
+        "name": "YEYE",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
