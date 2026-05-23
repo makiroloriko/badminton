@@ -101,6 +101,12 @@
       "name": "MJ",
       "gender": "male",
       "colorTeam": "blue"
+    },
+    {
+      "id": "player_2adip6b4y6ympierup7",
+      "name": "Yvone",
+      "gender": "female",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
