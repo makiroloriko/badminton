@@ -1079,6 +1079,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_7ycsiyp9zl5mpis0tbg",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_21vnyg73lyjhmpis0ge0",
+        "name": "MARK",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_n97nuy9txfmpif1ue8",
+        "name": "CHRISTINE",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
