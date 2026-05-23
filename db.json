@@ -849,6 +849,22 @@
         "gender": "female",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_0tyzhc0yr2mimpiruu5d",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_8oopbsf5snumpiequc6",
+        "name": "Christian",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_zfxoqimxoxsmpietxsw",
+        "name": "NIDA",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
