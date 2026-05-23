@@ -53,6 +53,12 @@
       "name": "Dyann",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_2glaju64y9jmpiepcay",
+      "name": "Cha-Cha",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
