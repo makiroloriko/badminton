@@ -1,11 +1,5 @@
 {
-  "players": [
-    {
-      "id": "player_0kcl3v8h2h4dmpidoqvu",
-      "name": "Kevin bryan",
-      "gender": "male"
-    }
-  ],
+  "players": [],
   "teams": [],
   "schedule": [],
   "currentCourtMatches": {
