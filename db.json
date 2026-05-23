@@ -23,6 +23,12 @@
       "name": "Hanz",
       "gender": "male",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_ekmidiudw2mpienkan",
+      "name": "Gerurd",
+      "gender": "male",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
