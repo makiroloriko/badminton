@@ -47,6 +47,12 @@
       "name": "Kath A.",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_2it38sgzflimpiep38q",
+      "name": "Dyann",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
