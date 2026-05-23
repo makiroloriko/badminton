@@ -1130,13 +1130,19 @@
         }
       },
       "courtId": 1,
-      "status": "live",
+      "status": "completed",
       "scoreA": 4,
       "scoreB": 15,
-      "setScores": [],
-      "winner": null,
+      "setScores": [
+        {
+          "A": 4,
+          "B": 15
+        }
+      ],
+      "winner": "B",
       "scheduledTime": "12:04 AM",
-      "startedAt": "2026-05-23T20:08:06.695Z"
+      "startedAt": "2026-05-23T20:08:06.695Z",
+      "completedAt": "2026-05-23T20:08:24.493Z"
     },
     {
       "id": "match_i1ez8fvsjcpmpis2pyb",
@@ -1180,7 +1186,7 @@
     }
   ],
   "currentCourtMatches": {
-    "1": "match_dzurjwgh5uempis27cx",
+    "1": null,
     "2": "match_i1ez8fvsjcpmpis2pyb"
   },
   "nextCourtMatches": {
