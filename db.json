@@ -785,6 +785,22 @@
         "gender": "male",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_6nnt94akadampirsxjq",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_z3rs5rmanaempiemien",
+        "name": "King",
+        "gender": "male",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_09hbylbduhjmpiepww1",
+        "name": "Wade",
+        "gender": "female",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
