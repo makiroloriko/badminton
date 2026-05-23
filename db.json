@@ -335,6 +335,22 @@
         "gender": "male",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_1b5b63yil3fmpif4e1l",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_v8no7jsyrzmpien4gt",
+        "name": "Mel",
+        "gender": "male",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_nsodxltcf4ompienbsa",
+        "name": "Hanz",
+        "gender": "male",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
