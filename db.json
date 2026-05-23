@@ -1131,7 +1131,7 @@
       },
       "courtId": 1,
       "status": "live",
-      "scoreA": 0,
+      "scoreA": 1,
       "scoreB": 0,
       "setScores": [],
       "winner": null,
