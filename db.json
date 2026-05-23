@@ -203,6 +203,12 @@
       "name": "JESSA",
       "gender": "female",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_dmtecdsmhumpiextlu",
+      "name": "SHEN",
+      "gender": "female",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
