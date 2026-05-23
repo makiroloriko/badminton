@@ -865,6 +865,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_vyrt0h7fjkmpirv4xa",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_gvjdozd9jrmmpiercij",
+        "name": "Andy",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_8y2u260c3mdmpietajf",
+        "name": "LENIE",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
