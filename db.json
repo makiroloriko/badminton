@@ -597,6 +597,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_ax7ygefzgfpmpirne7g",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_og4n0o6niwdmpif20kh",
+        "name": "RUTH",
+        "gender": "female",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_n97nuy9txfmpif1ue8",
+        "name": "CHRISTINE",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
