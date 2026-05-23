@@ -299,6 +299,12 @@
       "name": "CHRISTINE",
       "gender": "male",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_og4n0o6niwdmpif20kh",
+      "name": "RUTH",
+      "gender": "female",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
