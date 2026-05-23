@@ -269,6 +269,12 @@
       "name": "KEVIN",
       "gender": "male",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_iv5ig42o41mpif0ph2",
+      "name": "ROSY",
+      "gender": "female",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
