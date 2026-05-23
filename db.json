@@ -95,6 +95,12 @@
       "name": "Andy",
       "gender": "male",
       "colorTeam": "blue"
+    },
+    {
+      "id": "player_yk3sff7t31mpierjmv",
+      "name": "MJ",
+      "gender": "male",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
