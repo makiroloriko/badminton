@@ -275,6 +275,12 @@
       "name": "ROSY",
       "gender": "female",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_k92wdvy4nympif0yuc",
+      "name": "MISTY",
+      "gender": "female",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
