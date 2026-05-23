@@ -437,6 +437,22 @@
         "gender": "female",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_sfu2sc0e5dompif7lb0",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_2adip6b4y6ympierup7",
+        "name": "Yvone",
+        "gender": "female",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_75vevb8vtijmpies8z3",
+        "name": "Diana",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
