@@ -1,1 +1,43 @@
-
+{
+  "players": [
+    {
+      "id": "player_owsbh6y156mpidoaww",
+      "name": "Joel Macasero",
+      "gender": "male"
+    },
+    {
+      "id": "player_0kcl3v8h2h4dmpidoqvu",
+      "name": "Kevin bryan",
+      "gender": "male"
+    }
+  ],
+  "teams": [],
+  "schedule": [],
+  "currentCourtMatches": {
+    "1": null,
+    "2": null
+  },
+  "nextCourtMatches": {
+    "1": null,
+    "2": null
+  },
+  "githubConfig": {
+    "token": "SCRUBBED_TOKEN",
+    "repo": "makiroloriko/badminton",
+    "path": "db.json"
+  },
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "password123",
+      "role": "admin",
+      "name": "Administrator"
+    },
+    {
+      "username": "umpire",
+      "password": "password123",
+      "role": "umpire",
+      "name": "Tournament Umpire"
+    }
+  ]
+}
