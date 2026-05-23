@@ -897,6 +897,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_hg93mp5m5impirvtzj",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_yk3sff7t31mpierjmv",
+        "name": "MJ",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_75vevb8vtijmpies8z3",
+        "name": "Diana",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
