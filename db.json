@@ -1130,7 +1130,7 @@
         }
       },
       "courtId": 1,
-      "status": "live",
+      "status": "scheduled",
       "scoreA": 4,
       "scoreB": 15,
       "setScores": [],
@@ -1180,11 +1180,11 @@
     }
   ],
   "currentCourtMatches": {
-    "1": "match_dzurjwgh5uempis27cx",
+    "1": null,
     "2": "match_i1ez8fvsjcpmpis2pyb"
   },
   "nextCourtMatches": {
-    "1": null,
+    "1": "match_dzurjwgh5uempis27cx",
     "2": null
   },
   "githubConfig": {
