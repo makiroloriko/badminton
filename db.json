@@ -913,6 +913,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_xg1zh6odmhmpirw4u6",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_1bj8neb496umpirq28r",
+        "name": "JEMAR",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_osyibjxzdbqmpiesrvr",
+        "name": "CKEN",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
