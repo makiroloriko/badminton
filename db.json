@@ -113,6 +113,12 @@
       "name": "Diana",
       "gender": "female",
       "colorTeam": "blue"
+    },
+    {
+      "id": "player_osyibjxzdbqmpiesrvr",
+      "name": "CKEN",
+      "gender": "female",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
