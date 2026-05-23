@@ -17,6 +17,12 @@
       "name": "Mel",
       "gender": "male",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_nsodxltcf4ompienbsa",
+      "name": "Hanz",
+      "gender": "male",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
