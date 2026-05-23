@@ -469,6 +469,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_b7rv07dm8rqmpif89d7",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_8y2u260c3mdmpietajf",
+        "name": "LENIE",
+        "gender": "female",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_m61biqrkldmpietjo5",
+        "name": "JHEZIE",
+        "gender": "female",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
