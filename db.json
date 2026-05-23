@@ -179,6 +179,12 @@
       "name": "KRIS",
       "gender": "male",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_570y1iui90lmpiewnpb",
+      "name": "JOASH",
+      "gender": "male",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
