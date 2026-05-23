@@ -305,6 +305,12 @@
       "name": "RUTH",
       "gender": "female",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_lzfzqhmz7gfmpif26h6",
+      "name": "JHEN",
+      "gender": "female",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
