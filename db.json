@@ -167,6 +167,12 @@
       "name": "JULIUS",
       "gender": "male",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_jahon4gmpocmpiew7b4",
+      "name": "CJ",
+      "gender": "male",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
