@@ -59,6 +59,12 @@
       "name": "Cha-Cha",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_kh24ozwfxurmpiepm32",
+      "name": "Lala",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
