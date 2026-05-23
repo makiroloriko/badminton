@@ -721,6 +721,22 @@
         "gender": "male",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_z3kqt15vskhmpirr5xc",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_tsrxt3bx83mpiewfdw",
+        "name": "KRIS",
+        "gender": "male",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_570y1iui90lmpiewnpb",
+        "name": "JOASH",
+        "gender": "male",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
