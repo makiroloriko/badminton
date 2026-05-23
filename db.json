@@ -35,6 +35,12 @@
       "name": "Tony",
       "gender": "male",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_c0kkjrv9x6gmpieoekf",
+      "name": "Sheng",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
