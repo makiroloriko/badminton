@@ -421,6 +421,22 @@
         "gender": "female",
         "colorTeam": "green"
       }
+    },
+    {
+      "id": "team_b1ht5yyi83smpif7boj",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_09hbylbduhjmpiepww1",
+        "name": "Wade",
+        "gender": "female",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_fbhax1dmzugmpieq7iq",
+        "name": "Cassy",
+        "gender": "female",
+        "colorTeam": "green"
+      }
     }
   ],
   "schedule": [],
