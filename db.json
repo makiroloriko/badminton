@@ -257,6 +257,12 @@
       "name": "CARLO B.",
       "gender": "male",
       "colorTeam": "red"
+    },
+    {
+      "id": "player_bk9h51e991empif0aku",
+      "name": "BHADZ",
+      "gender": "male",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
