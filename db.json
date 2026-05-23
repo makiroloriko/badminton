@@ -1,5 +1,12 @@
 {
-  "players": [],
+  "players": [
+    {
+      "id": "player_z3rs5rmanaempiemien",
+      "name": "King",
+      "gender": "male",
+      "colorTeam": "green"
+    }
+  ],
   "teams": [],
   "schedule": [],
   "currentCourtMatches": {
