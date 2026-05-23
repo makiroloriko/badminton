@@ -71,6 +71,12 @@
       "name": "Wade",
       "gender": "female",
       "colorTeam": "green"
+    },
+    {
+      "id": "player_fbhax1dmzugmpieq7iq",
+      "name": "Cassy",
+      "gender": "female",
+      "colorTeam": "green"
     }
   ],
   "teams": [],
