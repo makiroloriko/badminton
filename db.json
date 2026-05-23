@@ -319,7 +319,24 @@
       "colorTeam": "red"
     }
   ],
-  "teams": [],
+  "teams": [
+    {
+      "id": "team_rlu8914cbbqmpif3vu5",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_z3rs5rmanaempiemien",
+        "name": "King",
+        "gender": "male",
+        "colorTeam": "green"
+      },
+      "player2": {
+        "id": "player_gbfn16wqv08mpiemtx6",
+        "name": "Ryleigh",
+        "gender": "male",
+        "colorTeam": "green"
+      }
+    }
+  ],
   "schedule": [],
   "currentCourtMatches": {
     "1": null,
