@@ -1041,6 +1041,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_cfbgk3c9pndmpirz106",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_brlnhu3jya9mpiezuub",
+        "name": "MACKY",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_zs0v1xfxtfampif2ffp",
+        "name": "JHOANNA",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
