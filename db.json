@@ -233,6 +233,12 @@
       "name": "BETH",
       "gender": "female",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_xm8fze64rinmpiezfi8",
+      "name": "ROQUE",
+      "gender": "male",
+      "colorTeam": "red"
     }
   ],
   "teams": [],
