@@ -173,6 +173,12 @@
       "name": "CJ",
       "gender": "male",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_tsrxt3bx83mpiewfdw",
+      "name": "KRIS",
+      "gender": "male",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
