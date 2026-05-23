@@ -155,6 +155,12 @@
       "name": "RYAN",
       "gender": "male",
       "colorTeam": "yellow"
+    },
+    {
+      "id": "player_4lhscpi2tdxmpievneo",
+      "name": "KIER",
+      "gender": "male",
+      "colorTeam": "yellow"
     }
   ],
   "teams": [],
