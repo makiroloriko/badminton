@@ -1009,6 +1009,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_00t66j5pqe8tmmpiryf1u",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_xm8fze64rinmpiezfi8",
+        "name": "ROQUE",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_k92wdvy4nympif0yuc",
+        "name": "MISTY",
+        "gender": "female",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
