@@ -533,6 +533,22 @@
         "gender": "female",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_dtxogg3wxampirl4lh",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_katk7cfl0campiey1n1",
+        "name": "MANEL",
+        "gender": "female",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_fjaj33m54wvmpiey9ot",
+        "name": "MELODY",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
