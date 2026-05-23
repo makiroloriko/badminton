@@ -629,6 +629,22 @@
         "gender": "female",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_bq01083dy47mpiro5ms",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_8oopbsf5snumpiequc6",
+        "name": "Christian",
+        "gender": "male",
+        "colorTeam": "blue"
+      },
+      "player2": {
+        "id": "player_0vaxezm8evampier157",
+        "name": "Gab",
+        "gender": "male",
+        "colorTeam": "blue"
+      }
     }
   ],
   "schedule": [],
