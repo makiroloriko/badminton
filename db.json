@@ -1130,13 +1130,13 @@
         }
       },
       "courtId": 1,
-      "status": "scheduled",
+      "status": "live",
       "scoreA": 4,
       "scoreB": 15,
       "setScores": [],
       "winner": null,
       "scheduledTime": "12:04 AM",
-      "startedAt": "2026-05-23T20:05:29.112Z"
+      "startedAt": "2026-05-23T20:08:04.543Z"
     },
     {
       "id": "match_i1ez8fvsjcpmpis2pyb",
@@ -1180,11 +1180,11 @@
     }
   ],
   "currentCourtMatches": {
-    "1": null,
+    "1": "match_dzurjwgh5uempis27cx",
     "2": "match_i1ez8fvsjcpmpis2pyb"
   },
   "nextCourtMatches": {
-    "1": "match_dzurjwgh5uempis27cx",
+    "1": null,
     "2": null
   },
   "githubConfig": {
