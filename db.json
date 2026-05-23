@@ -945,6 +945,22 @@
         "gender": "female",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_6uvp6rg0t22mpirwr81",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_jahon4gmpocmpiew7b4",
+        "name": "CJ",
+        "gender": "male",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_dmtecdsmhumpiextlu",
+        "name": "SHEM",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
