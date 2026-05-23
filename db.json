@@ -206,7 +206,7 @@
     },
     {
       "id": "player_dmtecdsmhumpiextlu",
-      "name": "SHEN",
+      "name": "SHEM",
       "gender": "female",
       "colorTeam": "yellow"
     },
@@ -529,7 +529,7 @@
       },
       "player2": {
         "id": "player_dmtecdsmhumpiextlu",
-        "name": "SHEN",
+        "name": "SHEM",
         "gender": "female",
         "colorTeam": "yellow"
       }
