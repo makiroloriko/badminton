@@ -737,6 +737,22 @@
         "gender": "male",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_8hz1xbt4e0pmpirrchs",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_xm8fze64rinmpiezfi8",
+        "name": "ROQUE",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_z641ccl0wj7mpiezoo9",
+        "name": "CARLO G",
+        "gender": "male",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
