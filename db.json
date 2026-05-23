@@ -83,6 +83,12 @@
       "name": "Christian",
       "gender": "male",
       "colorTeam": "blue"
+    },
+    {
+      "id": "player_0vaxezm8evampier157",
+      "name": "Gab",
+      "gender": "male",
+      "colorTeam": "blue"
     }
   ],
   "teams": [],
