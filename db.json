@@ -769,6 +769,22 @@
         "gender": "male",
         "colorTeam": "red"
       }
+    },
+    {
+      "id": "team_w2ksjvw8kkmpirry8w",
+      "category": "Male Doubles",
+      "player1": {
+        "id": "player_bk9h51e991empif0aku",
+        "name": "BHADZ",
+        "gender": "male",
+        "colorTeam": "red"
+      },
+      "player2": {
+        "id": "player_jlfc8rbiqbmpif0h2y",
+        "name": "KEVIN",
+        "gender": "male",
+        "colorTeam": "red"
+      }
     }
   ],
   "schedule": [],
