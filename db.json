@@ -501,6 +501,22 @@
         "gender": "female",
         "colorTeam": "blue"
       }
+    },
+    {
+      "id": "team_mzf3lk44lnpmpif8vmi",
+      "category": "Female Doubles",
+      "player1": {
+        "id": "player_0paqy158d5ibmpiewyqn",
+        "name": "LIEZL",
+        "gender": "female",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_8zj9n8vg3zxmpiex6gb",
+        "name": "HAYDEE",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
