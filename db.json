@@ -977,6 +977,22 @@
         "gender": "female",
         "colorTeam": "yellow"
       }
+    },
+    {
+      "id": "team_nl9q10cq1wbmpirxk9i",
+      "category": "Mixed Doubles",
+      "player1": {
+        "id": "player_no5k2t9rjoimpiev9ow",
+        "name": "RYAN",
+        "gender": "male",
+        "colorTeam": "yellow"
+      },
+      "player2": {
+        "id": "player_8zj9n8vg3zxmpiex6gb",
+        "name": "HAYDEE",
+        "gender": "female",
+        "colorTeam": "yellow"
+      }
     }
   ],
   "schedule": [],
