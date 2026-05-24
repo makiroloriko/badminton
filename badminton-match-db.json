@@ -19,6 +19,16 @@
         "Mixed Doubles"
       ],
       "id": "p-45slzl8xf"
+    },
+    {
+      "name": "MEL",
+      "gender": "Male",
+      "team": "Green",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ],
+      "id": "p-333j6eco8"
     }
   ],
   "partners": [],
