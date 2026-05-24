@@ -1,0 +1,250 @@
+{
+  "players": [
+    {
+      "id": "p1",
+      "name": "John Doe",
+      "gender": "Male",
+      "team": "Yellow",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Michael Chang",
+      "gender": "Male",
+      "team": "Green",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "David Lee",
+      "gender": "Male",
+      "team": "Blue",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "James Smith",
+      "gender": "Male",
+      "team": "Red",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Sarah Connor",
+      "gender": "Female",
+      "team": "Yellow",
+      "categories": [
+        "Female Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Emily Watson",
+      "gender": "Female",
+      "team": "Green",
+      "categories": [
+        "Female Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Jessica Alba",
+      "gender": "Female",
+      "team": "Blue",
+      "categories": [
+        "Female Doubles",
+        "Mixed Doubles"
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Ashley Cole",
+      "gender": "Female",
+      "team": "Red",
+      "categories": [
+        "Female Doubles",
+        "Mixed Doubles"
+      ]
+    }
+  ],
+  "partners": [
+    {
+      "id": "pt1",
+      "category": "Male Doubles",
+      "player1Id": "p1",
+      "player2Id": "p2"
+    },
+    {
+      "id": "pt2",
+      "category": "Male Doubles",
+      "player1Id": "p3",
+      "player2Id": "p4"
+    },
+    {
+      "id": "pt3",
+      "category": "Female Doubles",
+      "player1Id": "p5",
+      "player2Id": "p6"
+    },
+    {
+      "id": "pt4",
+      "category": "Female Doubles",
+      "player1Id": "p7",
+      "player2Id": "p8"
+    },
+    {
+      "id": "pt5",
+      "category": "Mixed Doubles",
+      "player1Id": "p1",
+      "player2Id": "p5"
+    },
+    {
+      "id": "pt6",
+      "category": "Mixed Doubles",
+      "player1Id": "p2",
+      "player2Id": "p6"
+    },
+    {
+      "id": "pt7",
+      "category": "Mixed Doubles",
+      "player1Id": "p3",
+      "player2Id": "p7"
+    },
+    {
+      "id": "pt8",
+      "category": "Mixed Doubles",
+      "player1Id": "p4",
+      "player2Id": "p8"
+    }
+  ],
+  "matches": [
+    {
+      "id": "m1",
+      "category": "Male Doubles",
+      "teamA": {
+        "player1Id": "p1",
+        "player2Id": "p2"
+      },
+      "teamB": {
+        "player1Id": "p3",
+        "player2Id": "p4"
+      },
+      "status": "Live",
+      "court": 1,
+      "setScores": [
+        {
+          "teamAScore": 21,
+          "teamBScore": 19
+        },
+        {
+          "teamAScore": 15,
+          "teamBScore": 21
+        },
+        {
+          "teamAScore": 12,
+          "teamBScore": 11
+        }
+      ],
+      "currentSetIndex": 2,
+      "winner": null,
+      "scheduledTime": "13:00"
+    },
+    {
+      "id": "m2",
+      "category": "Female Doubles",
+      "teamA": {
+        "player1Id": "p5",
+        "player2Id": "p6"
+      },
+      "teamB": {
+        "player1Id": "p7",
+        "player2Id": "p8"
+      },
+      "status": "Live",
+      "court": 2,
+      "setScores": [
+        {
+          "teamAScore": 21,
+          "teamBScore": 18
+        },
+        {
+          "teamAScore": 14,
+          "teamBScore": 16
+        }
+      ],
+      "currentSetIndex": 1,
+      "winner": null,
+      "scheduledTime": "13:15"
+    },
+    {
+      "id": "m3",
+      "category": "Mixed Doubles",
+      "teamA": {
+        "player1Id": "p1",
+        "player2Id": "p5"
+      },
+      "teamB": {
+        "player1Id": "p2",
+        "player2Id": "p6"
+      },
+      "status": "Scheduled",
+      "court": null,
+      "setScores": [
+        {
+          "teamAScore": 0,
+          "teamBScore": 0
+        }
+      ],
+      "currentSetIndex": 0,
+      "winner": null,
+      "scheduledTime": "14:00"
+    },
+    {
+      "id": "m4",
+      "category": "Mixed Doubles",
+      "teamA": {
+        "player1Id": "p3",
+        "player2Id": "p7"
+      },
+      "teamB": {
+        "player1Id": "p4",
+        "player2Id": "p8"
+      },
+      "status": "Scheduled",
+      "court": null,
+      "setScores": [
+        {
+          "teamAScore": 0,
+          "teamBScore": 0
+        }
+      ],
+      "currentSetIndex": 0,
+      "winner": null,
+      "scheduledTime": "14:30"
+    }
+  ],
+  "courts": {
+    "1": {
+      "currentMatchId": "m1",
+      "nextMatchId": "m3"
+    },
+    "2": {
+      "currentMatchId": "m2",
+      "nextMatchId": "m4"
+    }
+  }
+}
