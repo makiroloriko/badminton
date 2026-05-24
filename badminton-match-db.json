@@ -3,29 +3,6 @@
   "partners": [],
   "matches": [
     {
-      "id": "m3",
-      "category": "Mixed Doubles",
-      "teamA": {
-        "player1Id": "p1",
-        "player2Id": "p5"
-      },
-      "teamB": {
-        "player1Id": "p2",
-        "player2Id": "p6"
-      },
-      "status": "Scheduled",
-      "court": null,
-      "setScores": [
-        {
-          "teamAScore": 0,
-          "teamBScore": 0
-        }
-      ],
-      "currentSetIndex": 0,
-      "winner": null,
-      "scheduledTime": "14:00"
-    },
-    {
       "id": "m4",
       "category": "Mixed Doubles",
       "teamA": {
@@ -52,7 +29,7 @@
   "courts": {
     "1": {
       "currentMatchId": null,
-      "nextMatchId": "m3"
+      "nextMatchId": null
     },
     "2": {
       "currentMatchId": null,
