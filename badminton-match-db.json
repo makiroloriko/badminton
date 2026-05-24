@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p1",
-      "name": "John Doe",
-      "gender": "Male",
-      "team": "Yellow",
-      "categories": [
-        "Male Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p2",
       "name": "Michael Chang",
       "gender": "Male",
@@ -83,12 +73,6 @@
   ],
   "partners": [
     {
-      "id": "pt1",
-      "category": "Male Doubles",
-      "player1Id": "p1",
-      "player2Id": "p2"
-    },
-    {
       "id": "pt2",
       "category": "Male Doubles",
       "player1Id": "p3",
@@ -105,12 +89,6 @@
       "category": "Female Doubles",
       "player1Id": "p7",
       "player2Id": "p8"
-    },
-    {
-      "id": "pt5",
-      "category": "Mixed Doubles",
-      "player1Id": "p1",
-      "player2Id": "p5"
     },
     {
       "id": "pt6",
