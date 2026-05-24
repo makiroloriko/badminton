@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p6",
-      "name": "Emily Watson",
-      "gender": "Female",
-      "team": "Green",
-      "categories": [
-        "Female Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p7",
       "name": "Jessica Alba",
       "gender": "Female",
