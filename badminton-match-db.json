@@ -1,13 +1,6 @@
 {
   "players": [
     {
-      "name": "KING",
-      "gender": "Male",
-      "team": "Green",
-      "categories": [],
-      "id": "p-8sfz10r3s"
-    },
-    {
       "name": "RYLEIGH",
       "gender": "Male",
       "team": "Green",
