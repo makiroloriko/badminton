@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p2",
-      "name": "Michael Chang",
-      "gender": "Male",
-      "team": "Green",
-      "categories": [
-        "Male Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p3",
       "name": "David Lee",
       "gender": "Male",
@@ -89,12 +79,6 @@
       "category": "Female Doubles",
       "player1Id": "p7",
       "player2Id": "p8"
-    },
-    {
-      "id": "pt6",
-      "category": "Mixed Doubles",
-      "player1Id": "p2",
-      "player2Id": "p6"
     },
     {
       "id": "pt7",
