@@ -1,5 +1,16 @@
 {
-  "players": [],
+  "players": [
+    {
+      "name": "KING",
+      "gender": "Male",
+      "team": "Green",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ],
+      "id": "p-vrt02wfh2"
+    }
+  ],
   "partners": [],
   "matches": [],
   "courts": {
