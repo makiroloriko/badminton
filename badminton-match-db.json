@@ -1,16 +1,5 @@
 {
-  "players": [
-    {
-      "id": "p8",
-      "name": "Ashley Cole",
-      "gender": "Female",
-      "team": "Red",
-      "categories": [
-        "Female Doubles",
-        "Mixed Doubles"
-      ]
-    }
-  ],
+  "players": [],
   "partners": [],
   "matches": [
     {
