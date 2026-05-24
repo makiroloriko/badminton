@@ -3,37 +3,6 @@
   "partners": [],
   "matches": [
     {
-      "id": "m1",
-      "category": "Male Doubles",
-      "teamA": {
-        "player1Id": "p1",
-        "player2Id": "p2"
-      },
-      "teamB": {
-        "player1Id": "p3",
-        "player2Id": "p4"
-      },
-      "status": "Live",
-      "court": 1,
-      "setScores": [
-        {
-          "teamAScore": 21,
-          "teamBScore": 19
-        },
-        {
-          "teamAScore": 15,
-          "teamBScore": 21
-        },
-        {
-          "teamAScore": 12,
-          "teamBScore": 11
-        }
-      ],
-      "currentSetIndex": 2,
-      "winner": null,
-      "scheduledTime": "13:00"
-    },
-    {
       "id": "m2",
       "category": "Female Doubles",
       "teamA": {
@@ -109,7 +78,7 @@
   ],
   "courts": {
     "1": {
-      "currentMatchId": "m1",
+      "currentMatchId": null,
       "nextMatchId": "m3"
     },
     "2": {
