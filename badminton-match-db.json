@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p4",
-      "name": "James Smith",
-      "gender": "Male",
-      "team": "Red",
-      "categories": [
-        "Male Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p5",
       "name": "Sarah Connor",
       "gender": "Female",
@@ -62,12 +52,6 @@
       "id": "pt4",
       "category": "Female Doubles",
       "player1Id": "p7",
-      "player2Id": "p8"
-    },
-    {
-      "id": "pt8",
-      "category": "Mixed Doubles",
-      "player1Id": "p4",
       "player2Id": "p8"
     }
   ],
