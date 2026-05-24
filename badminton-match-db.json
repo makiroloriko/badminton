@@ -1,15 +1,5 @@
 {
-  "players": [
-    {
-      "name": "Test",
-      "gender": "Male",
-      "team": "Yellow",
-      "categories": [
-        "Male Doubles"
-      ],
-      "id": "p-j12wda608"
-    }
-  ],
+  "players": [],
   "partners": [],
   "matches": [],
   "courts": {
