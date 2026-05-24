@@ -29,6 +29,16 @@
         "Mixed Doubles"
       ],
       "id": "p-333j6eco8"
+    },
+    {
+      "name": "HANZ",
+      "gender": "Male",
+      "team": "Green",
+      "categories": [
+        "Male Doubles",
+        "Mixed Doubles"
+      ],
+      "id": "p-hjw6cjd2w"
     }
   ],
   "partners": [],
