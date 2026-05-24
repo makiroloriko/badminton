@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p5",
-      "name": "Sarah Connor",
-      "gender": "Female",
-      "team": "Yellow",
-      "categories": [
-        "Female Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p6",
       "name": "Emily Watson",
       "gender": "Female",
@@ -42,12 +32,6 @@
     }
   ],
   "partners": [
-    {
-      "id": "pt3",
-      "category": "Female Doubles",
-      "player1Id": "p5",
-      "player2Id": "p6"
-    },
     {
       "id": "pt4",
       "category": "Female Doubles",
