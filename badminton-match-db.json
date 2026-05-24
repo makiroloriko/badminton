@@ -1,13 +1,5 @@
 {
-  "players": [
-    {
-      "name": "GERURD",
-      "gender": "Male",
-      "team": "Green",
-      "categories": [],
-      "id": "p-io0r9v2m7"
-    }
-  ],
+  "players": [],
   "partners": [],
   "matches": [],
   "courts": {
