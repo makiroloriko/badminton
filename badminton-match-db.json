@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "id": "p7",
-      "name": "Jessica Alba",
-      "gender": "Female",
-      "team": "Blue",
-      "categories": [
-        "Female Doubles",
-        "Mixed Doubles"
-      ]
-    },
-    {
       "id": "p8",
       "name": "Ashley Cole",
       "gender": "Female",
@@ -21,14 +11,7 @@
       ]
     }
   ],
-  "partners": [
-    {
-      "id": "pt4",
-      "category": "Female Doubles",
-      "player1Id": "p7",
-      "player2Id": "p8"
-    }
-  ],
+  "partners": [],
   "matches": [
     {
       "id": "m1",
